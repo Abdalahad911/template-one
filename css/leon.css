@@ -295,7 +295,7 @@ body{
   user-select: none;
 } 
 .portofolio-content .cont:hover{
-  box-shadow: 0 0 10px 6px #aaa;
+  box-shadow: 0 0 10px 6px red;
 
 }
 .portofolio-content .cont img{
